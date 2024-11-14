@@ -21,7 +21,7 @@ export default function TermsOfService() {
             <CardTitle>2. Use of Service</CardTitle>
           </CardHeader>
           <CardContent>
-            <p>You agree to use Care Portal for lawful purposes only and in a way that does not infringe the rights of, restrict or inhibit anyone else's use and enjoyment of the service.</p>
+            <p>You agree to use Care Portal for lawful purposes only and in a way that does not infringe the rights of, restrict or inhibit anyone else&apos;s use and enjoyment of the service.</p>
           </CardContent>
         </Card>
         <Card className="mt-4">
