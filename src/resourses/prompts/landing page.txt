@@ -1,0 +1,13 @@
+Generate a responsive landing page for a healthcare website called Care Portal. The page should have a clean, professional design with a warm color palette (soft blues and greens) that feels welcoming and trustworthy.
+
+The landing page should include:
+
+A hero section with a welcoming message,
+A brief description of the platform's features,
+An engaging CTA button labeled 'Get Started' or 'Check Symptoms Now' that encourages users to begin using the platform.
+A navigation bar with links to key sections like 'Home,' 'How It Works,' 'About Us,' 'Contact,' and 'Login/Sign Up.' and there will be separate pages for contact, faqs, about
+and in footer also add terms and conditions and disclaimer page links too
+
+The design should be mobile-friendly and modern, with simple animations on scroll for a smooth user experience with best ui.
+heres the project details:
+I want to make an website in which removing the compounder doctor directly reached to patient..when the patient write their symptoms generate which type of disease he/she suffer and predicted thier disease and the prediction send to the doctor 

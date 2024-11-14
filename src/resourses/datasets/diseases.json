@@ -1,0 +1,1149 @@
+{
+  "Common Cold": {
+    "Runny nose": 80,
+    "Sneezing": 70,
+    "Sore throat": 60,
+    "Cough": 50,
+    "Headache": 40,
+    "Body aches": 30,
+    "Fatigue": 30
+  },
+  "Influenza": {
+    "Fever": 90,
+    "Cough": 80,
+    "Sore throat": 70,
+    "Headache": 60,
+    "Muscle aches": 60,
+    "Fatigue": 50,
+    "Runny nose": 40
+  },
+  "Pneumonia": {
+    "Cough": 90,
+    "Fever": 80,
+    "Shortness of breath": 70,
+    "Chest pain": 60,
+    "Fatigue": 50,
+    "Chills": 40
+  },
+  "Bronchitis": {
+    "Cough": 90,
+    "Shortness of breath": 70,
+    "Wheezing": 60,
+    "Chest tightness": 50,
+    "Fatigue": 40,
+    "Fever": 30
+  },
+  "Asthma": {
+    "Wheezing": 40,
+    "Shortness of breath": 80,
+    "Cough": 70,
+    "Chest tightness": 60,
+    "Fatigue": 50
+  },
+  "Allergies": {
+    "Sneezing": 90,
+    "Runny nose": 80,
+    "Itchy eyes": 70,
+    "Cough": 60,
+    "Fatigue": 50,
+    "Headache": 40
+  },
+  "Sinusitis": {
+    "Facial pain": 90,
+    "Headache": 80,
+    "Nasal congestion": 70,
+    "Fever": 60,
+    "Cough": 50,
+    "Fatigue": 40
+  },
+  "Gastroenteritis": {
+    "Diarrhea": 90,
+    "Vomiting": 80,
+    "Abdominal pain": 70,
+    "Fever": 60,
+    "Dehydration": 50,
+    "Fatigue": 40
+  },
+  "Food Poisoning": {
+    "Diarrhea": 90,
+    "Vomiting": 80,
+    "Abdominal pain": 70,
+    "Fever": 60,
+    "Nausea": 50,
+    "Dehydration": 40
+  },
+  "Appendicitis": {
+    "Abdominal pain": 90,
+    "Nausea": 80,
+    "Vomiting": 70,
+    "Fever": 60,
+    "Loss of appetite": 50,
+    "Diarrhea": 40
+  },
+  "Ulcerative Colitis": {
+    "Diarrhea": 90,
+    "Abdominal pain": 80,
+    "Rectal bleeding": 70,
+    "Fatigue": 60,
+    "Weight loss": 50,
+    "Fever": 40
+  },
+  "Crohn's Disease": {
+    "Diarrhea": 90,
+    "Abdominal pain": 80,
+    "Fatigue": 70,
+    "Weight loss": 60,
+    "Fever": 50,
+    "Rectal bleeding": 40
+  },
+  "Irritable Bowel Syndrome": {
+    "Abdominal pain": 90,
+    "Diarrhea": 80,
+    "Constipation": 70,
+    "Bloating": 60,
+    "Fatigue": 50,
+    "Gas": 40
+  },
+  "Constipation": {
+    "Difficult bowel movements": 90,
+    "Abdominal pain": 80,
+    "Bloating": 70,
+    "Straining": 60,
+    "Fatigue": 50,
+    "Rectal bleeding": 40
+  },
+  "Heartburn": {
+    "Chest pain": 90,
+    "Heartburn": 80,
+    "Nausea": 70,
+    "Vomiting": 60,
+    "Belching": 50,
+    "Difficulty swallowing": 40
+  },
+  "Peptic Ulcer Disease": {
+    "Abdominal pain": 90,
+    "Nausea": 80,
+    "Vomiting": 70,
+    "Heartburn": 60,
+    "Bloating": 50,
+    "Weight loss": 40
+  },
+  "Gallstones": {
+    "Abdominal pain": 90,
+    "Nausea": 80,
+    "Vomiting": 70,
+    "Fever": 60,
+    "Jaundice": 50,
+    "Clay-colored stools": 40
+  },
+  "Pancreatitis": {
+    "Abdominal pain": 90,
+    "Nausea": 80,
+    "Vomiting": 70,
+    "Fever": 60,
+    "Weight loss": 50,
+    "Jaundice": 40
+  },
+  "Hepatitis A": {
+    "Fatigue": 90,
+    "Fever": 80,
+    "Loss of appetite": 70,
+    "Nausea": 60,
+    "Vomiting": 50,
+    "Jaundice": 40
+  },
+  "Hepatitis B": {
+    "Fatigue": 90,
+    "Fever": 80,
+    "Loss of appetite": 70,
+    "Nausea": 60,
+    "Vomiting": 50,
+    "Jaundice": 40
+  },
+  "Hepatitis C": {
+    "Fatigue": 90,
+    "Fever": 80,
+    "Loss of appetite": 70,
+    "Nausea": 60,
+    "Vomiting": 50,
+    "Jaundice": 40
+  },
+  "Kidney Stones": {
+    "Flank pain": 90,
+    "Nausea": 80,
+    "Vomiting": 70,
+    "Blood in urine": 60,
+    "Fever": 50,
+    "Painful urination": 40
+  },
+  "Urinary Tract Infection": {
+    "Painful urination": 90,
+    "Frequent urination": 80,
+    "Urgency": 70,
+    "Blood in urine": 60,
+    "Fever": 50,
+    "Cloudy urine": 40
+  },
+  "Cystitis": {
+    "Painful urination": 90,
+    "Frequent urination": 80,
+    "Urgency": 70,
+    "Blood in urine": 60,
+    "Fever": 50,
+    "Cloudy urine": 40
+  },
+  "Prostatitis": {
+    "Painful urination": 90,
+    "Frequent urination": 80,
+    "Urgency": 70,
+    "Fever": 60,
+    "Pelvic pain": 50,
+    "Blood in urine": 40
+  },
+  "Meningitis": {
+    "Fever": 90,
+    "Headache": 80,
+    "Stiff neck": 70,
+    "Nausea": 60,
+    "Vomiting": 50,
+    "Sensitivity to light": 40
+  },
+  "Encephalitis": {
+    "Fever": 90,
+    "Headache": 80,
+    "Confusion": 70,
+    "Seizures": 60,
+    "Weakness": 50,
+    "Drowsiness": 40
+  },
+  "Epilepsy": {
+    "Seizures": 90,
+    "Loss of consciousness": 80,
+    "Muscle spasms": 70,
+    "Confusion": 60,
+    "Headache": 50,
+    "Weakness": 40
+  },
+  "Migraine": {
+    "Headache": 90,
+    "Nausea": 80,
+    "Vomiting": 70,
+    "Sensitivity to light": 60,
+    "Sensitivity to sound": 50,
+    "Blurred vision": 40
+  },
+  "Stroke": {
+    "Weakness": 90,
+    "Numbness": 80,
+    "Difficulty speaking": 70,
+    "Vision problems": 60,
+    "Headache": 50,
+    "Loss of balance": 40
+  },
+  "Multiple Sclerosis": {
+    "Weakness": 90,
+    "Numbness": 80,
+    "Fatigue": 70,
+    "Vision problems": 60,
+    "Dizziness": 50,
+    "Bladder problems": 40
+  },
+  "Parkinson's Disease": {
+    "Tremors": 90,
+    "Slow movements": 80,
+    "Stiffness": 70,
+    "Balance problems": 60,
+    "Depression": 50,
+    "Fatigue": 40
+  },
+  "Alzheimer's Disease": {
+    "Memory loss": 90,
+    "Confusion": 80,
+    "Difficulty speaking": 70,
+    "Personality changes": 60,
+    "Depression": 50,
+    "Hallucinations": 40
+  },
+  "Depression": {
+    "Sadness": 90,
+    "Loss of interest": 80,
+    "Fatigue": 70,
+    "Changes in appetite": 60,
+    "Sleep problems": 50,
+    "Suicidal thoughts": 40
+  },
+  "Anxiety": {
+    "Worry": 90,
+    "Nervousness": 80,
+    "Restlessness": 70,
+    "Difficulty concentrating": 60,
+    "Muscle tension": 50,
+    "Panic attacks": 40
+  },
+  "Panic Disorder": {
+    "Panic attacks": 90,
+    "Worry": 80,
+    "Nervousness": 70,
+    "Restlessness": 60,
+    "Difficulty concentrating": 50,
+    "Muscle tension": 40
+  },
+  "Obsessive-Compulsive Disorder": {
+    "Obsessions": 90,
+    "Compulsions": 80,
+    "Anxiety": 70,
+    "Depression": 60,
+    "Fatigue": 50,
+    "Sleep problems": 40
+  },
+  "Post-Traumatic Stress Disorder": {
+    "Flashbacks": 90,
+    "Nightmares": 80,
+    "Avoidance": 70,
+    "Anxiety": 60,
+    "Depression": 50,
+    "Sleep problems": 40
+  },
+  "Schizophrenia": {
+    "Hallucinations": 90,
+    "Delusions": 80,
+    "Disorganized thinking": 70,
+    "Social withdrawal": 60,
+    "Depression": 50,
+    "Anxiety": 40
+  },
+  "Bipolar Disorder": {
+    "Mania": 90,
+    "Depression": 80,
+    "Irritability": 70,
+    "Increased energy": 60,
+    "Racing thoughts": 50,
+    "Impulsivity": 40
+  },
+  "Attention-Deficit/Hyperactivity Disorder": {
+    "Inattentiveness": 90,
+    "Hyperactivity": 80,
+    "Impulsivity": 70,
+    "Difficulty concentrating": 60,
+    "Restlessness": 50,
+    "Disorganization": 40
+  },
+  "Autism Spectrum Disorder": {
+    "Social communication difficulties": 90,
+    "Repetitive behaviors": 80,
+    "Sensory sensitivities": 70,
+    "Difficulty with change": 60,
+    "Language delays": 50,
+    "Intellectual disabilities": 40
+  },
+  "Diabetes": {
+    "Frequent urination": 90,
+    "Excessive thirst": 80,
+    "Fatigue": 70,
+    "Weight loss": 60,
+    "Blurred vision": 50,
+    "Slow-healing sores": 40
+  },
+  "Hyperthyroidism": {
+    "Weight loss": 90,
+    "Increased appetite": 80,
+    "Rapid heartbeat": 70,
+    "Tremors": 60,
+    "Fatigue": 50,
+    "Heat intolerance": 40
+  },
+  "Hypothyroidism": {
+    "Weight gain": 90,
+    "Fatigue": 80,
+    "Depression": 70,
+    "Constipation": 60,
+    "Cold intolerance": 50,
+    "Dry skin": 40
+  },
+  "Osteoporosis": {
+    "Bone pain": 90,
+    "Fractures": 80,
+    "Loss of height": 70,
+    "Back pain": 60,
+    "Kyphosis": 50,
+    "Fatigue": 40
+  },
+  "Arthritis": {
+    "Joint pain": 90,
+    "Stiffness": 80,
+    "Swelling": 70,
+    "Redness": 60,
+    "Limited range of motion": 50,
+    "Fatigue": 40
+  },
+  "Rheumatoid Arthritis": {
+    "Joint pain": 90,
+    "Stiffness": 80,
+    "Swelling": 70,
+    "Redness": 60,
+    "Fatigue": 50,
+    "Morning stiffness": 40
+  },
+  "Gout": {
+    "Joint pain": 90,
+    "Swelling": 80,
+    "Redness": 70,
+    "Warmth": 60,
+    "Tenderness": 50,
+    "Limited range of motion": 40
+  },
+  "Fibromyalgia": {
+    "Widespread muscle pain": 90,
+    "Fatigue": 80,
+    "Sleep problems": 70,
+    "Depression": 60,
+    "Anxiety": 50,
+    "Cognitive difficulties": 40
+  },
+  "Lupus": {
+    "Joint pain": 90,
+    "Fatigue": 80,
+    "Fever": 70,
+    "Skin rash": 60,
+    "Hair loss": 50,
+    "Swelling": 40
+  },
+  "Scleroderma": {
+    "Skin tightening": 90,
+    "Joint pain": 80,
+    "Raynaud's phenomenon": 70,
+    "Fatigue": 60,
+    "Digestive problems": 50,
+    "Lung problems": 40
+  },
+  "Multiple Myeloma": {
+    "Bone pain": 90,
+    "Fatigue": 80,
+    "Weakness": 70,
+    "Anemia": 60,
+    "Kidney problems": 50,
+    "Frequent infections": 40
+  },
+  "Cancer": {
+    "Fatigue": 90,
+    "Weight loss": 80,
+    "Pain": 70,
+    "Fever": 60,
+    "Bleeding": 50,
+    "Lumps": 40
+  },
+  "Heart Disease": {
+    "Chest pain": 90,
+    "Shortness of breath": 80,
+    "Fatigue": 70,
+    "Swelling": 60,
+    "Irregular heartbeat": 50,
+    "Dizziness": 40
+  },
+  "Heart Attack": {
+    "Chest pain": 90,
+    "Shortness of breath": 80,
+    "Nausea": 70,
+    "Sweating": 60,
+    "Weakness": 50,
+    "Dizziness": 40
+  },
+  "Congestive Heart Failure": {
+    "Shortness of breath": 90,
+    "Fatigue": 80,
+    "Swelling": 70,
+    "Cough": 60,
+    "Rapid heartbeat": 50,
+    "Weight gain": 40
+  },
+  "Arrhythmia": {
+    "Irregular heartbeat": 90,
+    "Palpitations": 80,
+    "Dizziness": 70,
+    "Fatigue": 60,
+    "Chest pain": 50,
+    "Shortness of breath": 40
+  },
+  "High Blood Pressure": {
+    "Headache": 90,
+    "Nosebleeds": 80,
+    "Fatigue": 70,
+    "Dizziness": 60,
+    "Vision problems": 50,
+    "Shortness of breath": 40
+  },
+  "Peripheral Artery Disease": {
+    "Leg pain": 90,
+    "Numbness": 80,
+    "Coldness": 70,
+    "Weakness": 60,
+    "Intermittent claudication": 50,
+    "Skin changes": 40
+  },
+  "Aneurysm": {
+    "Headache": 90,
+    "Neck pain": 80,
+    "Dizziness": 70,
+    "Vision problems": 60,
+    "Weakness": 50,
+    "Loss of consciousness": 40
+  },
+  "Deep Vein Thrombosis": {
+    "Leg pain": 90,
+    "Swelling": 80,
+    "Redness": 70,
+    "Warmth": 60,
+    "Tenderness": 50,
+    "Fatigue": 40
+  },
+  "Pulmonary Embolism": {
+    "Shortness of breath": 90,
+    "Chest pain": 80,
+    "Cough": 70,
+    "Rapid heartbeat": 60,
+    "Wheezing": 50,
+    "Dizziness": 40
+  },
+  "Sleep Apnea": {
+    "Loud snoring": 90,
+    "Daytime sleepiness": 80,
+    "Morning headaches": 70,
+    "Fatigue": 60,
+    "Dry mouth": 50,
+    "Restlessness": 40
+  },
+  "Insomnia": {
+    "Difficulty falling asleep": 90,
+    "Difficulty staying asleep": 80,
+    "Waking up feeling tired": 70,
+    "Daytime sleepiness": 60,
+    "Irritability": 50,
+    "Depression": 40
+  },
+  "Restless Legs Syndrome": {
+    "Uncomfortable sensations in legs": 90,
+    "Urge to move legs": 80,
+    "Sleep problems": 70,
+    "Fatigue": 60,
+    "Restlessness": 50,
+    "Muscle cramps": 40
+  },
+  "Narcolepsy": {
+    "Excessive daytime sleepiness": 90,
+    "Sudden sleep attacks": 80,
+    "Cataplexy": 70,
+    "Sleep paralysis": 60,
+    "Hallucinations": 50,
+    "Fatigue": 40
+  },
+  "Kidney Disease": {
+    "Fatigue": 90,
+    "Swelling": 80,
+    "Shortness of breath": 70,
+    "Loss of appetite": 60,
+    "Nausea": 50,
+    "Changes in urination": 40
+  },
+  "Kidney Failure": {
+    "Fatigue": 90,
+    "Swelling": 80,
+    "Shortness of breath": 70,
+    "Loss of appetite": 60,
+    "Nausea": 50,
+    "Changes in urination": 40
+  },
+  "Uterine Fibroids": {
+    "Heavy bleeding": 90,
+    "Pelvic pain": 80,
+    "Abdominal pain": 70,
+    "Frequent urination": 60,
+    "Back pain": 50,
+    "Constipation": 40
+  },
+  "Endometriosis": {
+    "Pelvic pain": 90,
+    "Painful periods": 80,
+    "Heavy bleeding": 70,
+    "Infertility": 60,
+    "Fatigue": 50,
+    "Pain during intercourse": 40
+  },
+  "Polycystic Ovary Syndrome": {
+    "Irregular periods": 90,
+    "Excess hair growth": 80,
+    "Acne": 70,
+    "Weight gain": 60,
+    "Infertility": 50,
+    "Fatigue": 40
+  },
+  "Ovarian Cancer": {
+    "Abdominal bloating": 90,
+    "Pelvic pain": 80,
+    "Weight loss": 70,
+    "Fatigue": 60,
+    "Loss of appetite": 50,
+    "Changes in bowel habits": 40
+  },
+  "Cervical Cancer": {
+    "Abnormal bleeding": 90,
+    "Pain during intercourse": 80,
+    "Pelvic pain": 70,
+    "Vaginal discharge": 60,
+    "Weight loss": 50,
+    "Fatigue": 40
+  },
+  "Breast Cancer": {
+    "Lump in breast": 90,
+    "Nipple discharge": 80,
+    "Pain in breast": 70,
+    "Skin changes": 60,
+    "Swelling": 50,
+    "Fatigue": 40
+  },
+  "Prostate Cancer": {
+    "Urinary problems": 90,
+    "Erectile dysfunction": 80,
+    "Back pain": 70,
+    "Weight loss": 60,
+    "Fatigue": 50,
+    "Blood in urine": 40
+  },
+  "Testicular Cancer": {
+    "Lump in testicle": 90,
+    "Pain in testicle": 80,
+    "Swelling in testicle": 70,
+    "Heavy feeling in testicle": 60,
+    "Back pain": 50,
+    "Fatigue": 40
+  },
+  "Chlamydia": {
+    "Painful urination": 90,
+    "Abnormal discharge": 80,
+    "Pain during intercourse": 70,
+    "Bleeding between periods": 60,
+    "Fatigue": 50,
+    "Fever": 40
+  },
+  "Gonorrhea": {
+    "Painful urination": 90,
+    "Abnormal discharge": 80,
+    "Pain during intercourse": 70,
+    "Bleeding between periods": 60,
+    "Fatigue": 50,
+    "Fever": 40
+  },
+  "Syphilis": {
+    "Sore on genitals": 90,
+    "Rash": 80,
+    "Fever": 70,
+    "Headache": 60,
+    "Fatigue": 50,
+    "Muscle aches": 40
+  },
+  "Herpes": {
+    "Blisters": 90,
+    "Pain": 80,
+    "Itching": 70,
+    "Fever": 60,
+    "Flu-like symptoms": 50,
+    "Swollen lymph nodes": 40
+  },
+  "HIV/AIDS": {
+    "Fatigue": 90,
+    "Weight loss": 80,
+    "Fever": 70,
+    "Night sweats": 60,
+    "Swollen lymph nodes": 50,
+    "Diarrhea": 40
+  },
+  "Mononucleosis": {
+    "Fatigue": 90,
+    "Fever": 80,
+    "Sore throat": 70,
+    "Swollen lymph nodes": 60,
+    "Headache": 50,
+    "Muscle aches": 40
+  },
+  "Chickenpox": {
+    "Itchy rash": 90,
+    "Fever": 80,
+    "Headache": 70,
+    "Fatigue": 60,
+    "Loss of appetite": 50,
+    "Swollen lymph nodes": 40
+  },
+  "Measles": {
+    "Fever": 90,
+    "Rash": 80,
+    "Cough": 70,
+    "Runny nose": 60,
+    "Conjunctivitis": 50,
+    "Sore throat": 40
+  },
+  "Mumps": {
+    "Swelling of salivary glands": 90,
+    "Fever": 80,
+    "Headache": 70,
+    "Muscle aches": 60,
+    "Fatigue": 50,
+    "Loss of appetite": 40
+  },
+  "Rubella": {
+    "Rash": 90,
+    "Fever": 80,
+    "Headache": 70,
+    "Swollen lymph nodes": 60,
+    "Sore throat": 50,
+    "Joint pain": 40
+  },
+  "Rabies": {
+    "Fever": 90,
+    "Headache": 80,
+    "Muscle weakness": 70,
+    "Hydrophobia": 60,
+    "Agitation": 50,
+    "Hallucinations": 40
+  },
+  "Tetanus": {
+    "Muscle spasms": 90,
+    "Stiffness": 80,
+    "Difficulty swallowing": 70,
+    "Lockjaw": 60,
+    "Fever": 50,
+    "Headache": 40
+  },
+  "Botulism": {
+    "Muscle weakness": 90,
+    "Difficulty swallowing": 80,
+    "Blurred vision": 70,
+    "Constipation": 60,
+    "Dry mouth": 50,
+    "Difficulty breathing": 40
+  },
+  "Polio": {
+    "Fever": 90,
+    "Muscle weakness": 80,
+    "Paralysis": 70,
+    "Headache": 60,
+    "Stiff neck": 50,
+    "Pain": 40
+  },
+  "Ebola": {
+    "Fever": 90,
+    "Headache": 80,
+    "Muscle pain": 70,
+    "Weakness": 60,
+    "Diarrhea": 50,
+    "Vomiting": 40
+  },
+  "Zika Virus": {
+    "Fever": 90,
+    "Rash": 80,
+    "Joint pain": 70,
+    "Conjunctivitis": 60,
+    "Headache": 50,
+    "Muscle pain": 40
+  },
+  "Dengue Fever": {
+    "Fever": 90,
+    "Headache": 80,
+    "Muscle and joint pain": 70,
+    "Rash": 60,
+    "Nausea": 50,
+    "Vomiting": 40
+  },
+  "Yellow Fever": {
+    "Fever": 90,
+    "Headache": 80,
+    "Muscle pain": 70,
+    "Jaundice": 60,
+    "Nausea": 50,
+    "Vomiting": 40
+  },
+  "Malaria": {
+    "Fever": 90,
+    "Headache": 80,
+    "Chills": 70,
+    "Sweating": 60,
+    "Muscle pain": 50,
+    "Fatigue": 40
+  },
+  "Typhoid Fever": {
+    "Fever": 90,
+    "Headache": 80,
+    "Abdominal pain": 70,
+    "Constipation": 60,
+    "Weakness": 50,
+    "Fatigue": 40
+  },
+  "Tuberculosis": {
+    "Cough": 90,
+    "Fever": 80,
+    "Night sweats": 70,
+    "Weight loss": 60,
+    "Chest pain": 50,
+    "Fatigue": 40
+  },
+  "Cystic Fibrosis": {
+    "Cough": 90,
+    "Shortness of breath": 80,
+    "Wheezing": 70,
+    "Fatigue": 60,
+    "Weight loss": 50,
+    "Frequent lung infections": 40
+  },
+  "Chronic Obstructive Pulmonary Disease": {
+    "Cough": 90,
+    "Shortness of breath": 80,
+    "Wheezing": 70,
+    "Chest tightness": 60,
+    "Fatigue": 50,
+    "Mucus production": 40
+  },
+  "Emphysema": {
+    "Shortness of breath": 90,
+    "Cough": 80,
+    "Wheezing": 70,
+    "Chest tightness": 60,
+    "Fatigue": 50,
+    "Barrel chest": 40
+  },
+  "Chronic Bronchitis": {
+    "Cough": 90,
+    "Shortness of breath": 80,
+    "Wheezing": 70,
+    "Chest tightness": 60,
+    "Fatigue": 50,
+    "Mucus production": 40
+  },
+  "Pleural Effusion": {
+    "Shortness of breath": 90,
+    "Chest pain": 80,
+    "Cough": 70,
+    "Fatigue": 60,
+    "Fever": 50,
+    "Swelling": 40
+  },
+  "Pneumothorax": {
+    "Shortness of breath": 90,
+    "Chest pain": 80,
+    "Cough": 70,
+    "Fatigue": 60,
+    "Rapid heartbeat": 50,
+    "Wheezing": 40
+  },
+  "Lung Cancer": {
+    "Cough": 90,
+    "Shortness of breath": 80,
+    "Chest pain": 70,
+    "Weight loss": 60,
+    "Fatigue": 50,
+    "Wheezing": 40
+  },
+  "Gastroesophageal Reflux Disease": {
+    "Heartburn": 90,
+    "Chest pain": 80,
+    "Nausea": 70,
+    "Vomiting": 60,
+    "Belching": 50,
+    "Difficulty swallowing": 40
+  },
+  "Gastritis": {
+    "Abdominal pain": 90,
+    "Nausea": 80,
+    "Vomiting": 70,
+    "Loss of appetite": 60,
+    "Bloating": 50,
+    "Heartburn": 40
+  },
+  "Celiac Disease": {
+    "Diarrhea": 90,
+    "Abdominal pain": 80,
+    "Fatigue": 70,
+    "Weight loss": 60,
+    "Bloating": 50,
+    "Gas": 40
+  },
+  "Diverticulitis": {
+    "Abdominal pain": 90,
+    "Fever": 80,
+    "Nausea": 70,
+    "Vomiting": 60,
+    "Diarrhea": 50,
+    "Constipation": 40
+  },
+  "Pancreatic Cancer": {
+    "Abdominal pain": 90,
+    "Weight loss": 80,
+    "Jaundice": 70,
+    "Nausea": 60,
+    "Vomiting": 50,
+    "Fatigue": 40
+  },
+  "Liver Cancer": {
+    "Abdominal pain": 90,
+    "Weight loss": 80,
+    "Fatigue": 70,
+    "Jaundice": 60,
+    "Loss of appetite": 50,
+    "Swelling": 40
+  },
+  "Cirrhosis": {
+    "Fatigue": 90,
+    "Swelling": 80,
+    "Jaundice": 70,
+    "Loss of appetite": 60,
+    "Nausea": 50,
+    "Abdominal pain": 40
+  },
+  "Kidney Cancer": {
+    "Blood in urine": 90,
+    "Flank pain": 80,
+    "Weight loss": 70,
+    "Fatigue": 60,
+    "Fever": 50,
+    "Abdominal pain": 40
+  },
+  "Bladder Cancer": {
+    "Blood in urine": 90,
+    "Painful urination": 80,
+    "Frequent urination": 70,
+    "Urgency": 60,
+    "Pelvic pain": 50,
+    "Fatigue": 40
+  },
+  "Uterine Cancer": {
+    "Abnormal bleeding": 90,
+    "Pelvic pain": 80,
+    "Weight loss": 70,
+    "Fatigue": 60,
+    "Abdominal pain": 50,
+    "Changes in bowel habits": 40
+  },
+  "Vaginal Cancer": {
+    "Abnormal bleeding": 90,
+    "Pain during intercourse": 80,
+    "Vaginal discharge": 70,
+    "Pelvic pain": 60,
+    "Weight loss": 50,
+    "Fatigue": 40
+  },
+  "Vulvar Cancer": {
+    "Itching": 90,
+    "Pain": 80,
+    "Bleeding": 70,
+    "Lump": 60,
+    "Weight loss": 50,
+    "Fatigue": 40
+  },
+  "Penile Cancer": {
+    "Lump on penis": 90,
+    "Sores on penis": 80,
+    "Discharge from penis": 70,
+    "Pain during urination": 60,
+    "Pain during intercourse": 50,
+    "Fatigue": 40
+  },
+  "Influenza (Flu)": {
+    "Fever": 90,
+    "Cough": 80,
+    "Sore throat": 70,
+    "Headache": 60,
+    "Muscle aches": 60,
+    "Fatigue": 50,
+    "Runny nose": 40
+  },
+  "COVID-19": {
+    "Fever": 80,
+    "Cough": 70,
+    "Shortness of breath": 60,
+    "Fatigue": 50,
+    "Muscle aches": 40,
+    "Headache": 30,
+    "Loss of taste or smell": 30
+  },
+  "Hypertension (High Blood Pressure)": {
+    "Headache": 90,
+    "Nosebleeds": 80,
+    "Fatigue": 70,
+    "Dizziness": 60,
+    "Vision problems": 50,
+    "Shortness of breath": 40
+  },
+  "Coronary Artery Disease": {
+    "Chest pain": 90,
+    "Shortness of breath": 80,
+    "Fatigue": 70,
+    "Swelling": 60,
+    "Irregular heartbeat": 50,
+    "Dizziness": 40
+  },
+  "Chronic Obstructive Pulmonary Disease (COPD)": {
+    "Cough": 90,
+    "Shortness of breath": 80,
+    "Wheezing": 70,
+    "Chest tightness": 60,
+    "Fatigue": 50,
+    "Mucus production": 40
+  },
+  "Osteoarthritis": {
+    "Joint pain": 90,
+    "Stiffness": 80,
+    "Swelling": 70,
+    "Limited range of motion": 60,
+    "Tenderness": 50,
+    "Grinding sensation": 40
+  },
+  "Anxiety Disorders": {
+    "Worry": 90,
+    "Nervousness": 80,
+    "Restlessness": 70,
+    "Difficulty concentrating": 60,
+    "Muscle tension": 50,
+    "Panic attacks": 40
+  },
+  "Irritable Bowel Syndrome (IBS)": {
+    "Abdominal pain": 90,
+    "Diarrhea": 80,
+    "Constipation": 70,
+    "Bloating": 60,
+    "Fatigue": 50,
+    "Gas": 40
+  },
+  "Gastroesophageal Reflux Disease (GERD)": {
+    "Heartburn": 90,
+    "Chest pain": 80,
+    "Nausea": 70,
+    "Vomiting": 60,
+    "Belching": 50,
+    "Difficulty swallowing": 40
+  },
+  "Hepatitis (A, B, C)": {
+    "Fatigue": 90,
+    "Fever": 80,
+    "Loss of appetite": 70,
+    "Nausea": 60,
+    "Vomiting": 50,
+    "Jaundice": 40
+  },
+  "Urinary Tract Infection (UTI)": {
+    "Painful urination": 90,
+    "Frequent urination": 80,
+    "Urgency": 70,
+    "Blood in urine": 60,
+    "Fever": 50,
+    "Cloudy urine": 40
+  },
+  "Seasonal Allergies (Hay Fever)": {
+    "Sneezing": 90,
+    "Runny nose": 80,
+    "Itchy eyes": 70,
+    "Cough": 60,
+    "Fatigue": 50,
+    "Headache": 40
+  },
+  "Whooping Cough (Pertussis)": {
+    "Cough": 90,
+    "Fever": 80,
+    "Runny nose": 70,
+    "Vomiting": 60,
+    "Fatigue": 50,
+    "Whooping sound": 40
+  },
+  "Hand, Foot, and Mouth Disease": {
+    "Fever": 90,
+    "Sore throat": 80,
+    "Rash": 70,
+    "Mouth sores": 60,
+    "Loss of appetite": 50,
+    "Fatigue": 40
+  },
+  "Tonsillitis": {
+    "Sore throat": 90,
+    "Fever": 80,
+    "Swollen tonsils": 70,
+    "Difficulty swallowing": 60,
+    "Headache": 50,
+    "Fatigue": 40
+  },
+  "Conjunctivitis (Pink Eye)": {
+    "Redness": 90,
+    "Itching": 80,
+    "Discharge": 70,
+    "Sensitivity to light": 60,
+    "Blurred vision": 50,
+    "Swelling": 40
+  },
+  "Scabies": {
+    "Itching": 90,
+    "Rash": 80,
+    "Tiny red bumps": 70,
+    "Sores": 60,
+    "Fatigue": 50,
+    "Skin irritation": 40
+  },
+  "Ringworm": {
+    "Rash": 90,
+    "Itching": 80,
+    "Red, scaly patches": 70,
+    "Pain": 60,
+    "Hair loss": 50,
+    "Nail changes": 40
+  },
+  "Cellulitis": {
+    "Redness": 90,
+    "Swelling": 80,
+    "Pain": 70,
+    "Warmth": 60,
+    "Fever": 50,
+    "Tenderness": 40
+  },
+  "Shingles": {
+    "Painful rash": 90,
+    "Blisters": 80,
+    "Fever": 70,
+    "Headache": 60,
+    "Fatigue": 50,
+    "Sensitivity to touch": 40
+  },
+  "Psoriasis": {
+    "Red, scaly patches": 90,
+    "Itching": 80,
+    "Dry skin": 70,
+    "Pain": 60,
+    "Joint pain": 50,
+    "Nail changes": 40
+  },
+  "Eczema (Atopic Dermatitis)": {
+    "Itching": 90,
+    "Dry skin": 80,
+    "Redness": 70,
+    "Rashes": 60,
+    "Scaliness": 50,
+    "Cracking": 40
+  },
+  "Croup": {
+    "Barking cough": 90,
+    "Difficulty breathing": 80,
+    "Wheezing": 70,
+    "Hoarseness": 60,
+    "Fever": 50,
+    "Stridor": 40
+  },
+  "Lyme Disease": {
+    "Rash": 90,
+    "Fever": 80,
+    "Headache": 70,
+    "Fatigue": 60,
+    "Muscle aches": 50,
+    "Joint pain": 40
+  },
+  "Seasonal Affective Disorder (SAD)": {
+    "Depression": 90,
+    "Fatigue": 80,
+    "Changes in appetite": 70,
+    "Sleep problems": 60,
+    "Loss of interest": 50,
+    "Social withdrawal": 40
+  }
+}

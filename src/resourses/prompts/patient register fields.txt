@@ -1,0 +1,13 @@
+patient register fields:
+name, email, phone (with dropdown of country codes too), country(dropdown by default india (india, us, Nepal, china, Russia, sri lanka, Bangladesh, Bhutan)), state(dropdown, sample data from Indian states default bihar), city (dropdown default Patna and cities from bihar for now sample data), pin code (number), age (number), gender (only male and female), password, family medical history (chips on entering after one value and then pressing enter and cut option too for each chips)
+
+doctor register fields:
+name, email, phone (with dropdown of country codes too), country(dropdown by default india (india, us, Nepal, china, Russia, sri lanka, Bangladesh, Bhutan)), state(dropdown, sample data from Indian states default bihar), city (dropdown default Patna and cities from bihar for now sample data), pin code (number), age (number), gender (only male and female), password, experience (in years), specialization, certificate (file type pdf)
+
+create a common sample data in /libs/locations.js with variable name locations and then [india:{bihar:["Patna", Gaya, Muzaffarpur etc...], Jharkhand:[]}, US: {}]
+these types of sample data for now and iterate over these for input fields and get countries, states and cities from this sample data on register pages of both doctor and patients from same variable exported. for now add only countries india, us, Nepal, china, Russia, sri lanka, Bangladesh, Bhutan and its some of states and thier some of cities. and update states options on behalf of country selected and same for cities too
+
+arrange these input fields in better sequence in ui for regiser page
+add below to alternatiove links for register like doctor ones on patient and patients ones on doctor register page
+
+now write next js javascript code with best ui and ux for both register/doctor and patient 
