@@ -4,8 +4,8 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { AlertTriangle, Activity, Thermometer, Pill } from "lucide-react";
-import GaugeChart from "react-gauge-chart";
 import { useRouter } from "next/navigation";
+import AccuracyChart from "./AccuracyChart";
 
 const resultVariants = {
   hidden: { opacity: 0, y: 50 },
@@ -67,42 +67,41 @@ export default function Results({ results, setResults }) {
 
       <div className="mt-8">
         <div>
-          <GaugeChart id="accuracy-gauge" nrOfLevels={10} colors={["#FF0000", "#FFFF00", "#00FF00"]} percent={disease.accuracy / 10} hideText={true} />
+          <AccuracyChart accuracy={disease.accuracy * 10} />
         </div>
-        <p className="text-center mt-2 text-lg font-bold text-indigo-700">
-          {disease.accuracy * 10}% Accuracy
-        </p>
       </div>
 
       <div className="flex flex-wrap justify-center items-center gap-3 pt-5">
-      <Button
-        onClick={() => router.push("/dashboard/prediction")}
-        className="bg-indigo-600 hover:bg-indigo-700 text-white"
-      >
-        Send To Doctor
-      </Button>
-      <Button
-        onClick={() => router.push("/dashboard/prediction")}
-        className="bg-indigo-600 hover:bg-indigo-700 text-white"
-      >
-        Save Prediction
-      </Button>
-      <Button
-        onClick={() => router.push("/dashboard/prediction")}
-        className="bg-indigo-600 hover:bg-indigo-700 text-white"
-      >
-        Download Prediction
-      </Button>
-      <Button
-        onClick={() => router.push("/dashboard/prediction")}
-        variant="destructive"
-      >
-        Cancel
-      </Button>
+        <Button
+          onClick={() => router.push("/dashboard/prediction")}
+          className="bg-indigo-600 hover:bg-indigo-700 text-white"
+        >
+          Send To Doctor
+        </Button>
+        <Button
+          onClick={() => router.push("/dashboard/prediction")}
+          className="bg-indigo-600 hover:bg-indigo-700 text-white"
+        >
+          Save Prediction
+        </Button>
+        <Button
+          onClick={() => router.push("/dashboard/prediction")}
+          className="bg-indigo-600 hover:bg-indigo-700 text-white"
+        >
+          Download Prediction
+        </Button>
+        <Button
+          onClick={() => router.push("/dashboard/prediction")}
+          variant="destructive"
+        >
+          Cancel
+        </Button>
       </div>
 
       <div>
-        <p className="text-red-500 text-sm text-center">Care portal can make mistake. Consult a professional.</p>
+        <p className="text-red-500 text-sm text-center">
+          Care portal can make mistake. Consult a professional.
+        </p>
       </div>
     </motion.div>
   );
