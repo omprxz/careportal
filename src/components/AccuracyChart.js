@@ -41,7 +41,7 @@ const AIAccuracyChart = ({ accuracy }) => {
       <div className="text-center space-y-2">
         <h2 className="text-2xl font-extrabold text-gray-900">Accuracy</h2>
         <div className="flex items-center justify-center space-x-2">
-          {getIcon(normalizedAccuracy)}
+          {getIcon(normalizedAccuracy)} 
           <p className={`text-5xl font-black bg-gradient-to-r ${getGradientColor(normalizedAccuracy)} bg-clip-text text-transparent`}>
             {animatedAccuracy.toFixed(1)}%
           </p>
